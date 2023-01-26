@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=header"/>
 
 # Olá 👋, Eu sou o Josimar Nascimento!
 
@@ -25,3 +26,5 @@ Sou apaixonado em codificar e criar coisas novas, gosto muito de descobrir novas
 [![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=NascimentoJosimar&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/NascimentoJosimar)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NascimentoJosimar&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/NascimentoJosimar)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer"/>
