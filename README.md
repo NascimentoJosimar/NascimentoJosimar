@@ -8,7 +8,7 @@
 
 ## Sobre mim:
 
-Sou Desenvolvedor Web e Implantador de Sistemas :smile:
+Sou Desenvolvedor Web e Implantador de Sistemas 😁
 
 Sou apaixonado em codificar e criar coisas novas, gosto muito de descobrir novas tecnologias e mergulhar fundo na resolução de problemas.
 
